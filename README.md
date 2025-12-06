@@ -16,6 +16,7 @@ It provides secure access using passcode authentication, LCD interface, LEDs, bu
 | Red LED | 1 |
 | Green LED | 1 |
 | Buzzer | 1 |
+| Resistors | 2 |
 | Breadboard | 1 |
 | Jumper Wires | As required |
 
