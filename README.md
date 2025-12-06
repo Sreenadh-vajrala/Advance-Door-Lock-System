@@ -94,7 +94,8 @@ Displays:
 ## 🔌 Circuit Diagram
 
 <p align="center">
-  <img src="images/circuit-diagram.png" width="800"/>
+  <img src="circuit-diagram.png" width="850"/>
+  <br><b>Advanced Door Lock System – Circuit Diagram</b>
 </p>
 
 ---
