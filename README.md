@@ -1,11 +1,11 @@
-# 🔐 Advanced Door Lock System | Arduino Based
+# Advanced Door Lock System | Arduino Based
 
 This project is an **Advanced Security Door Lock System** built using Arduino.  
 It provides secure access using passcode authentication, LCD interface, LEDs, buzzer, and a servo-controlled lock.
 
 ---
 
-## 🛠 Hardware Components Used
+## Hardware Components Used
 
 | Component | Quantity |
 |----------|:--------:|
@@ -22,7 +22,7 @@ It provides secure access using passcode authentication, LCD interface, LEDs, bu
 
 ---
 
-## 🧾 System Overview
+## System Overview
 
 - **Keypad** → Used to enter passcode & navigate menus  
 - **Red LED** → Door Locked  
@@ -45,7 +45,7 @@ Once powered on, LCD displays:
 
 ---
 
-## ⭐ Description Mode (`*` Key)
+## Description Mode (`*` Key)
 
 Displays:
 - Project name  
@@ -54,7 +54,7 @@ Displays:
 
 ---
 
-## 🔓 Unlock / Lock Door (`#` Key)
+## Unlock / Lock Door (`#` Key)
 
 ### Correct Passcode:
 - LCD → **CORRECT PASSCODE**
@@ -71,7 +71,7 @@ Displays:
 
 ---
 
-## 🔁 Reset Passcode (`A` Key)
+## Reset Passcode (`A` Key)
 
 ### If old passcode is correct:
 - Prompts user to enter new passcode
@@ -84,7 +84,7 @@ Displays:
 
 ---
 
-## ⚠ Limitations
+## Limitations
 
 - If an unknown user enters the correct passcode, the door unlocks.
 - Fingerprint sensor could not be integrated due to hardware limitations.
@@ -92,7 +92,7 @@ Displays:
 
 ---
 
-## 🔌 Circuit Diagram
+## Circuit Diagram
 
 <p align="center">
   <img src="circuit-diagram.png" width="850"/>
@@ -101,7 +101,7 @@ Displays:
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Fingerprint-based secondary authentication  
 - IoT-based lock monitoring  
