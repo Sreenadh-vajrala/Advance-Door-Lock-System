@@ -4,6 +4,10 @@ This project is an **Advanced Security Door Lock System** built using Arduino.
 It provides secure access using passcode authentication, LCD interface, LEDs, buzzer, and a servo-controlled lock.
 
 ---
+## Tools Used
+ 
+- Arduino IDE
+- Tinkercad 
 
 ## Hardware Components Used
 
