@@ -31,7 +31,7 @@ It provides secure access using passcode authentication, LCD interface, LEDs, bu
 - **Servo Motor** → Opens/Closes the door lock  
 
 Once powered on, LCD displays:  
-➡ **“Enter # or * or A”**
+➡ “Enter # or * or A”
 
 | Key | Function |
 |------|----------|
