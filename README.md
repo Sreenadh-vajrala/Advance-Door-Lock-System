@@ -113,6 +113,4 @@ Displays:
 
 ## Demo Video
 
-Watch the working demonstration of the project:
-
-[![Watch the video](https://img.youtube.com/vi/dlZn7oggovs/0.jpg)](https://youtu.be/dlZn7oggovs)
+https://youtu.be/dlZn7oggovs
